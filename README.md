@@ -22,7 +22,7 @@ The game uses the turtle module to create and manipulate the graphics on the scr
 
 ## How to run
 
-To run the game, you need to have Python 3 installed on your computer. You can download it from [here][(https://www.python.org/downloads/)].
+To run the game, you need to have Python 3 installed on your computer. You can download it from [here(https://www.python.org/downloads/)].
 
 Then, you need to clone or download this github repo to your local machine. You can do this by clicking on the green "Code" button on this page and choosing your preferred option.
 
